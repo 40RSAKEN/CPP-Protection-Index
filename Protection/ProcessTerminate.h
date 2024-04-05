@@ -113,6 +113,7 @@ void TerminateProcesses() {
     }
 }
 
+// vshost.exe removed for testing purposes.
 
 std::vector<std::wstring> ProcessListToCheck = {
     L"processhacker.exe", L"procmon.exe", L"pestudio.exe", L"procmon64.exe", L"x32dbg.exe", L"x64dbg.exe", L"CFF Explorer.exe", L"procexp64.exe",
