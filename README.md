@@ -3,4 +3,5 @@ C++ PE protection components for loaders, PE, etc. Make sure to obfuscate for be
 
 Example main.cpp is included, but not needed.
 
+Also expect an update soon.
 
